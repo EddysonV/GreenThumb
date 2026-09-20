@@ -12,6 +12,8 @@
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
+[![Voir la présentation PDF](https://img.shields.io/badge/📄_Voir_la_présentation-PDF-2E7D32?style=for-the-badge)](./GreenThumb_Recommandation_Plantes_Eddyson_Volcime.pdf)
+
 </div>
 
 ---
